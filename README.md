@@ -1,5 +1,7 @@
 # analogue-clock
-A digital analogue clock using device time. 
+A digital analogue clock using device time. Runs online and offline.
+
+Hosted at: https://powerfulillusion.com/analogue-clock/
 
 _I'd like to get this running on mobile devices as a widget or lock screen clock as well as convert it to run on a smart watch with a round display in the future._
 
